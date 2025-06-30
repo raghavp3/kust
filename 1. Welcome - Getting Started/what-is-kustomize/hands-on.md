@@ -9,8 +9,8 @@ So, we are NOT going to installing kubectl or kustomize yet, instead we will be 
 called "Killer Koda". This provides us with a playground for kubernetes with kubectl already installed. 
 
 To get started,
-- Head over to (Killer Koda)[https://killercoda.com/kubernetes/scenario/a-playground] to provision a demo playground.
-- Confirm kubectl and kustomize is installed and versions with the following command: `kubectl version --short`
+- Head over to [Killer Koda](https://killercoda.com/playgrounds/scenario/kubernetes) to provision a demo playground.
+- Confirm kubectl and kustomize is installed and versions with the following command: `kubectl version`
 
 Clone the github repository:
 ```sh 
