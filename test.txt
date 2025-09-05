@@ -4,3 +4,5 @@ git commands-
 git init-initalise the git
 git add . add to staging area
 git commit -m "commit message" - to bring it commit area
+git pull -bring the code from github
+git push - push code from local to github 
