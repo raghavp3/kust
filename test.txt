@@ -8,4 +8,7 @@ git pull -bring the code from github
 git push - push code from local to github 
 git rebase
 git fetch
+
 create merge conflicts
+
+
