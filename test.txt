@@ -1,1 +1,6 @@
 added new code to kust folder
+
+git commands- 
+git init-initalise the git
+git add . add to staging area
+git commit -m "commit message" - to bring it commit area
